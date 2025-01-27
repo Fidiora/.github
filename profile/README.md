@@ -10,7 +10,7 @@ We're on a mission to democratize enterprise-ready security and IAM solutions. O
 
 ### Active Projects
 
-#### consent-forge
+#### lightweight-cookie-consent
 A flexible consent management framework for handling user permissions and privacy preferences.
 - 📝 Template-driven consent flows
 - 🔄 Version control for consent records
@@ -42,7 +42,7 @@ Each repository includes:
 
 ```bash
 # Quick start with consent-forge
-git clone https://github.com/fidiora/consent-forge
+git clone https://github.com/fidiora/lightweight-cookie-consent
 cd consent-forge
 docker-compose up
 
